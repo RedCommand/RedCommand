@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**RedCommand/RedCommand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maxime, I'm a french :fr: student at [EPITECH :mortar_board:](https://epitech.eu). <br/>
+### I like :
+- New technologies :rocket:
+- Aeronautics :airplane:
+- Simulations games :video_game:
+- Anime :tv:
+<br/>
 
-Here are some ideas to get you started:
+## Here are my main skills !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Main skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,js,typescript,vuejs,nuxtjs,react,electron,tailwind,html,css,mysql,postgres,arduino&perline=9)](https://github.com/tandpfun/skill-icons)
+
+### And the tools I use !
+
+[![My tools](https://skillicons.dev/icons?i=linux,idea,vscode,git,docker,kubernetes,cloudflare,md,cmake&perline=9)](https://github.com/tandpfun/skill-icons)
