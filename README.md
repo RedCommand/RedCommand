@@ -10,7 +10,7 @@ My name is Maxime, I'm a french :fr: student at [EPITECH :mortar_board:](https:/
 
 ## Here are my main skills !
 
-[![Main skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,js,typescript,vuejs,nuxtjs,react,electron,tailwind,html,css,mysql,postgres,arduino&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,js,typescript,vuejs,nuxtjs,react,electron,tailwind,html,css,mysql,postgres,arduino,java&perline=9)](https://github.com/tandpfun/skill-icons)
 
 ### And the tools I use !
 
